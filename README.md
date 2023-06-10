@@ -1,16 +1,14 @@
-# karma-shell - A Linux Shell in C
-
-## *watch your karma*
+# Shell-Jelly A Linux Shell in C
 ___ 
 
-## Execution Instructions
+## Running Instructions
 
 - run `make` to create an executable `shell`
 - run command `./shell` in the terminal , and there the shell runs.
 
 ## Introduction
 
-**This is a Linux C-Shell implemented by me.**  
+**This is a Linux C-Shell**  
 - To exit the shell : 
    1. Press <kbd>Ctrl + D</kbd> , saves the current session history , and exits the terminal 
    2. enter `exit` command in terminal.
